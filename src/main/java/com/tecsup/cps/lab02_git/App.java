@@ -10,6 +10,11 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public static void metodo_dev03() {
+    	
+    }
+    
     
     public static void metodo_deve01() {
     	
